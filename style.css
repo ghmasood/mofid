@@ -196,6 +196,7 @@ header a:hover {
 .logos img {
   width: 40%;
   height: auto;
+  margin: 0 auto;
 }
 
 @media only screen and (min-width: 700px) {
